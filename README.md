@@ -39,6 +39,5 @@
 
 
 [website]: https://codeSTACKr.com
-[course]: 
 [youtube]: https://www.youtube.com/channel/UC9fRuicrYTEm3IhB9rhQcdA
 [linkedin]: https://www.linkedin.com/in/diego-armando-corzo-hernandez-794234208/
