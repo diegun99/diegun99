@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="16" height="16" src="https://github.com/feathericons/feather/blob/master/icons/linkedin.svg" />][linkedin]
 
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
