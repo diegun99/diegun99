@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="16" height="16" fill="#AB7C94" src="https://github.com/feathericons/feather/blob/master/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="16" height="16" fill="#AB7C94" src="https://github.com/feathericons/feather/blob/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="16" height="16" fill="FFFF" src="https://github.com/feathericons/feather/blob/master/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="16" height="16" fill="FFFF" src="https://github.com/feathericons/feather/blob/master/icons/linkedin.svg" />][linkedin]
 
 
 <br/>
