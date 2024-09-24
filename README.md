@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="16" height="16" src="https://github.com/feathericons/feather/blob/master/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="16" height="16" src="https://github.com/feathericons/feather/blob/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="16" height="16" src="[icons/linkedin.svg](https://raw.githubusercontent.com/feathericons/feather/1b002399e8758fb2bccea4d07312dc9e0f43dcb8/icons/linkedin.svg)" />][linkedin]
 
 
 <br/>
