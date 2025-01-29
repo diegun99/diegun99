@@ -42,3 +42,17 @@
 [website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UC9fRuicrYTEm3IhB9rhQcdA
 [linkedin]: https://www.linkedin.com/in/diego-armando-corzo-hernandez-794234208/
+
+
+
+<h2 align="center">GitHub Stats:</h2>
+<div>
+  <h3 align="center">Contributions in the last year </h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Diegun99/Diegun99/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
