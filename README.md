@@ -35,7 +35,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn](https://www.linkedin.com/in/diego-armando-corzo-hernandez-794234208/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourportfolio.com)
 
